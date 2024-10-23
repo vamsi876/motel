@@ -221,7 +221,7 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 ## 👥 Authors
 
-- Your Name - *Initial work* - [YourGithub](https://github.com/yourusername)
+- Vamsi Krishna Kollipara - *Initial work* - [YourGithub](https://github.com/vamsi876)
 
 ## 🙏 Acknowledgments
 
